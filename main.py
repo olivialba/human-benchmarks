@@ -1,9 +1,11 @@
 from benchmarks.ReactionTime import ReactionTime
 from benchmarks.AimTrainer import AimTrainer
+from benchmarks.SequenceMemory import SequenceMemory
 
 benchmark_tests = {
     '1': ReactionTime,
-    '2': AimTrainer
+    '2': AimTrainer,
+    '3': SequenceMemory
 }
 
 def select_benchmark():

@@ -18,7 +18,7 @@ Small scripts made to complete the human benchmarks for training using python.
 | Bechmark | Build | Result | Percentile |
 | ------ | ------ | --- | --- |
 | Reaction Time | *Complete* | 47 ms | 99.9% | 
-| Sequence Memory | *TODO* |  | |
+| Sequence Memory | *Complete* | Infinite  | 100.0% |
 | Aim Trainer | *Complete* | 125 ms | 99.9% |
 | Number Memory | *TODO* | | |
 | Verbal Memory | *TODO* | | |
